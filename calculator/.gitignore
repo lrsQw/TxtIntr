@@ -1,0 +1,12 @@
+*.exe
+*.o
+*.a
+*.so
+*.dll
+*.backup
+*~
+build/
+dist/
+.DS_Store
+Thumbs.db
+*.log
